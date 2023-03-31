@@ -2,7 +2,7 @@
 
 ## User Interfaces
 
-[13 Pro - 1](https://user-images.githubusercontent.com/105077115/229053331-9b58bc27-737a-43a1-9fd9-f729c5975e4d.png)
+![13 Pro - 1](https://user-images.githubusercontent.com/105077115/229058616-dc75177b-d1d2-4741-91dd-dde25e1d78c0.png)
 ![13 Pro - 2](https://user-images.githubusercontent.com/105077115/229053387-f9454265-3482-4d8b-849f-d098a73fae0b.png)
 ![13 Pro - 3](https://user-images.githubusercontent.com/105077115/229057673-82e7c9ee-d842-4223-8f5e-0cf16542994c.jpeg)
 ![13 Pro - 4](https://user-images.githubusercontent.com/105077115/229053468-314ff4eb-a22b-4cd4-8a5f-4d220f2f260c.png)
